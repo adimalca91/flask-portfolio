@@ -1,0 +1,12 @@
+
+fake@gmail.com,hey,whatsss uppp?
+fake2@gmail.com,yooo,duddee
+fake3@gmail.com,csv_check,checking csv database
+fake3@gmail.com,csv_check,checking csv database
+fake3@gmail.com,csv_check,checking csv database
+fake4@gmail.com,csv_check_4,checking csv database 4
+fake4@gmail.com,csv_check_4,checking csv database 4
+fake4@gmail.com,csv_check_4,checking csv database 4
+axa@gmail.com,xx,aa
+axa@gmail.com,xx,aa
+axa@gmail.com,xx,aa
